@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexjurismunic00genggoog_0008.png"; bbox 0 0 3646 5828; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 727 1746 1105 1927">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 727 1746 1105 1927">
+     <span class='ocr_line' id='line_1_1' title="bbox 727 1746 1105 1927; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 727 1746 1105 1927; x_wconf 81' lang='lat' dir='ltr'><strong>CODEX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 242 2242 1573 2380">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 242 2242 1573 2380">
+     <span class='ocr_line' id='line_1_2' title="bbox 242 2242 1573 2380; baseline 0.007 -14"><span class='ocrx_word' id='word_1_2' title='bbox 242 2257 481 2375; x_wconf 73' lang='lat' dir='ltr'>‚JURIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 526 2262 1055 2379; x_wconf 79' lang='lat' dir='ltr'><strong>MUNIGIPALIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1107 2242 1573 2380; x_wconf 71' lang='lat' dir='ltr'><strong>GERM&#39;ANIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 765 2696 1058 2777">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 765 2696 1058 2777">
+     <span class='ocr_line' id='line_1_3' title="bbox 765 2696 1058 2777; baseline -0.007 -2"><span class='ocrx_word' id='word_1_5' title='bbox 765 2696 895 2775; x_wconf 84' lang='lat' dir='ltr'>MEDll</span> <span class='ocrx_word' id='word_1_6' title='bbox 927 2698 1058 2777; x_wconf 82' lang='lat' dir='ltr'><strong>AEVl.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1828 5828">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1828 5828">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1828 5828; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1828 5828; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
